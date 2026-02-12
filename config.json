@@ -1,0 +1,14 @@
+{
+  "timezone": "Europe/Moscow",
+  "alert_roles": [1471283429575233783, 1471283464631353549, 1471283512358211698],
+  "discord_webhook_url": "https://discord.com/api/webhooks/1471285685729104116/CYk_TuM5Xq_jBGHSeoi0dZxIlxJSCTaDOIbdyTWWsluPeqnrA3y8_h4YGop6Np0jpmfo",
+  "poll_interval_sec": 2,
+  "window_minutes": 60,
+  "threshold_mode": "gte",
+  "items": {
+    "1": { "name": "Эпиниефрин", "max_per_window": 20 },
+    "2": { "name": "Легкий бронежилет", "max_per_window": 30 },
+    "3": { "name": "Аптечка", "max_per_window": 30 },
+    "4": { "name": "Бинты", "max_per_window": 100 }
+  }
+}
